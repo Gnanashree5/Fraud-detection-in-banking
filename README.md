@@ -57,7 +57,8 @@ This project aims to detect fraudulent credit card transactions using a **Random
 
 
 ## ✨ Acknowledgment
-This project is inspired by the Kaggle **Credit Card Fraud Detection Dataset** and aims to improve fraud detection methods.
+<p>This project was done under guidance of  <a href="https://github.com/Victor-Ikechukwu">Dr. Agughasi Victor Ikechukwu</a></p>
+
 
 ---
 🚀 **Let's make online transactions safer!**
